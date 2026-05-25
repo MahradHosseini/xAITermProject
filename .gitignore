@@ -1,9 +1,1 @@
-artifacts/data/
-artifacts/models/
-artifacts/downloads/
 
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-*.pt
